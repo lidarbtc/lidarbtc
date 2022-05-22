@@ -1,9 +1,8 @@
 # Hi there 👋
 
-## interest
+## lidar
 
-tor network 🧅
-security 🔒
+korea highschool student
 
 ## tech stack
 
