@@ -2,7 +2,7 @@
 
 ## lidar
 
-korea highschool student
+I'm Korea student.
 
 ## 🔹 tech stack 🔹
 
