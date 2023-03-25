@@ -2,21 +2,7 @@
 
 ## lidar
 
-### Personal Information
-
-- **Nationality**: Korean
-- **Current Education**: Dongbaek High School (2022-present)
-
-### Interests & Skills
-
-- **Passions**: Program development, security, and privacy protection
-- **Programming Languages**: Rust, JavaScript, Solidity
-- **Web Technologies**: Web design
-
-### Experience
-
-- **Middle School**: Dongbaek Middle School (2019-2022)
-- **Online Projects**: Operated Invidious instances and Tor relays
+Korea student developer
 
 ## 🔹 tech stack 🔹
 
