@@ -2,7 +2,21 @@
 
 ## lidar
 
-I am a sophomore high school student living in Korea and I have a passion for program development. My strongest skill is in Rust, but recently I've developed an interest in JavaScript, web design, and Solidity, so I am currently studying those as well. My educational background includes graduating from Dongbaek Middle School (2019-2022) and currently attending Dongbaek High School (2022-present). In addition, I have a strong interest in security and privacy protection. I have even operated Invidious instances and Tor relays in the past.
+### Personal Information
+
+- **Nationality**: Korean
+- **Current Education**: Dongbaek High School (2022-present)
+
+### Interests & Skills
+
+- **Passions**: Program development, security, and privacy protection
+- **Programming Languages**: Rust, JavaScript, Solidity
+- **Web Technologies**: Web design
+
+### Experience
+
+- **Middle School**: Dongbaek Middle School (2019-2022)
+- **Online Projects**: Operated Invidious instances and Tor relays
 
 ## 🔹 tech stack 🔹
 
