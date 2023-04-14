@@ -2,7 +2,7 @@
 
 ## lidar
 
-Korea student developer
+I'm in earth.
 
 ## 🔹 tech stack 🔹
 
