@@ -2,7 +2,7 @@
 
 ## lidar
 
-I'm in earth.
+Korean
 
 ## 🔹 tech stack 🔹
 
