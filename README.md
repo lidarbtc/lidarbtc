@@ -65,6 +65,6 @@ WuQhwnjjaUILw/RStaReWdCEGwO9E7Jd0DlV5LByMg==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-## haerin
+## 해린
 
-[haerin-network](https://haerin.network)
+[해린](https://haerin.network)
