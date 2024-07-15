@@ -2,7 +2,7 @@
 
 ## lidar
 
-- Korean who love Rust and Linux
+- Korean who love `Rust` and `Linux`
 
 - I work with Network Engineering, Security, Web, Server and Blockchain 🤗
 
