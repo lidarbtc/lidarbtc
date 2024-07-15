@@ -2,11 +2,11 @@
 
 ## lidar
 
-- Korean who love `NewJeans Haerin` 🐈
+- Korean who love Rust and Linux
 
-- I work with Network Engineering, Security, Web, Server and Blockchain 🤗 
+- I work with Network Engineering, Security, Web, Server and Blockchain 🤗
 
-- I'm older than `Hyein` and younger than `Haerin`.
+- I'm a high school student now.
 
 ## Tech stack
 
