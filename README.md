@@ -1,10 +1,10 @@
-# Hi there 👋
+# Hi there
 
 ## lidar
 
-- I work with Network Engineering, Security, Web, Server and Blockchain 🤗
+- I work with Network Engineering, Security, Web, Server and Blockchain
 
-- Rust, Linux, Typescript, Python, Solidity ❤️
+- Rust, Linux, TypeScript, Python, Solidity
 
 ## Contact
  
