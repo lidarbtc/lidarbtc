@@ -1,6 +1,4 @@
-# Hi there
-
-## lidar
+# Hyunjae Chung (lidar)
 
 - I work with Network Engineering, Security, Web, Server and Blockchain
 
