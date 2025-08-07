@@ -1,8 +1,8 @@
 # Hyunjae Chung (lidar)
 
-- I work with Network Engineering, Security, Web, Server and Blockchain
+- Interested in Network Engineering, Security, Web, Server, Blockchain.
 
-- Rust, Linux, TypeScript, Python, Solidity
+- Rust, Linux, TypeScript, Python, Solidity.
 
 ## Contact
 
