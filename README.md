@@ -16,8 +16,8 @@ Interested in
 ## Contact
 
 ```
-session : lidar
-email : lidarbtc@protonmail.com
+session: lidar
+email: lidarbtc@protonmail.com
 ```
 
 ## GPG key
