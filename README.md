@@ -5,7 +5,7 @@ Interested in
 - Network Engineering
 - Security
 - Web
-- Server
+- Infrastructure
 - Blockchain
 - System Programming
 - Rust
