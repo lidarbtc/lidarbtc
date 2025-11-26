@@ -1,4 +1,4 @@
-# Hyunjae Chung (lidar)
+# Hyunjae Chung
 
 Interested in
 
@@ -7,7 +7,7 @@ Interested in
 - Web
 - Server
 - Blockchain
-- System programming
+- System Programming
 - Rust
 - Linux
 - TypeScript
