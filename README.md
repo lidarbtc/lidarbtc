@@ -7,6 +7,7 @@ Interested in
 - Web
 - Server
 - Blockchain
+- System programming
 - Rust
 - Linux
 - TypeScript
